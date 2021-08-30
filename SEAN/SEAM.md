@@ -91,9 +91,9 @@ ${L_{reg}}:$ varient of GIoU loss.
 
 - Result
 
-![](https://i.imgur.com/p0Nb5IZ.png =80%x)
-![](https://i.imgur.com/CGk2qjH.png =80%x)
-![](https://i.imgur.com/kZfRmad.png =80%x)
+    ![](https://i.imgur.com/p0Nb5IZ.png =80%x)
+    ![](https://i.imgur.com/CGk2qjH.png =80%x)
+    ![](https://i.imgur.com/kZfRmad.png =80%x)
 
 
 - We extend the original mask head in Mask R-CNN by attention module.
